@@ -4,6 +4,11 @@
   <asx:values>
    <URL>/SAP/PUBLIC/ZABAPGIT_CI/abapGit_CI_result.html</URL>
    <CLASS>M_TEXT_L</CLASS>
+   <EXTRA>
+    <FILE_NAME>abapGit_CI_result.html</FILE_NAME>
+    <MIMETYPE>text/html</MIMETYPE>
+    <PARENT_FOLDER_ID>0242AC1100021EEBB1BBC829FAE49E35</PARENT_FOLDER_ID>
+   </EXTRA>
   </asx:values>
  </asx:abap>
 </abapGit>
